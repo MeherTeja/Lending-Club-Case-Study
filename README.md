@@ -1,6 +1,6 @@
 # Lending-Club-Case-Study
 
-Problem Statement:
+**Problem Statement**:
 If the customer is likely to repay the loan, then rejecting the loan may lead to business loss
 If the customer is not likely to repay the loan, then approving it may lead to financial loss
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
@@ -17,7 +17,7 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 
 Identify default applicants using EDA Tools
 
-Analysis:
+**Analysis:**
 1) Dropped irrelevant columns
 2) renamed the values for few columns
 3) replaced null values with mean
